@@ -1,0 +1,19 @@
+{
+  "name": "teachspider",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+    "dependencies":{
+        "underscore": "~1.6.0",
+        "dateformat": "1.0.11",
+        "leanengine": "^0.1.0",
+        "superagent": "~0.15.7",
+        "osmosis": "~0.0.8",
+        "colors": "~1.1.2"
+    },
+  "license": "ISC"
+}
